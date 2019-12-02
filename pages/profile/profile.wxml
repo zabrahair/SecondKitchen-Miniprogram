@@ -1,2 +1,17 @@
 <!--pages/profile/profile.wxml-->
-<text>pages/profile/profile.wxml</text>
+<view class="container">
+  <view class="summary">
+    <view class="left">
+      <view class="avatar">
+      </view>
+    </view>
+    <view class="middle">
+      <view class="username">
+      </view>
+    </view>
+    <view class="right">
+    </view>
+  </view>
+  <view class="content">
+  </view>
+</view>
