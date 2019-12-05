@@ -57,6 +57,13 @@
 					"id": -1,
 					"name": "pages/orders/orders",
 					"pathName": "pages/orders/orders",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/selectMealCombo/selectMealCombo",
+					"pathName": "pages/selectMealCombo/selectMealCombo",
 					"scene": null
 				}
 			]

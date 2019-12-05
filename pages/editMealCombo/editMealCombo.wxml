@@ -1,2 +1,56 @@
 <!--pages/editMealCombo/editMealCombo.wxml-->
-<text>pages/editMealCombo/editMealCombo.wxml</text>
+<view class="container">
+  <view class="header">
+    <view class="combo_title">
+    </view>
+  </view>
+  <view class="combo_options">
+    <view class="major dish">
+      <view class="dish_title">
+      </view>
+      <view class="options">
+        <view class="disk_option">
+        </view>
+        <view class="disk_option">
+        </view>
+      </view>    
+    </view>
+    <view class="meat_1 dish">
+      <view class="dish_title">
+      </view>
+      <view class="options">
+      </view>  
+    </view>
+    <view class="meat_2 dish">
+      <view class="dish_title">
+      </view>
+      <view class="options">
+      </view>    
+    </view>
+    <view class="vegetable_1 dish">
+      <view class="dish_title">
+      </view>
+      <view class="options">
+      </view>    
+    </view>
+    <view class="vegetable_2 dish">
+      <view class="dish_title">
+      </view>
+      <view class="options">
+      </view>    
+    </view>
+    <view class="soup dish">
+      <view class="dish_title">
+      </view>
+      <view class="options">
+      </view>    
+    </view>
+  </view>
+  <view class="order_summary">
+    <view class="total_price">
+    
+    </view>
+    <view class="send_order">
+    </view>
+  </view>
+</view>

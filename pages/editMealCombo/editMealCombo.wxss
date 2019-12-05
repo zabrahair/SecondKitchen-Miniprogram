@@ -1,1 +1,99 @@
 /* pages/editMealCombo/editMealCombo.wxss */
+.container {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+
+  width: 100vw;
+  height: 100vh;  
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+
+  width: 100vw;
+  height: 15vh;  
+}
+
+.combo_title {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+
+  width: 50vw;
+  height: 5vh;  
+}
+
+.combo_options {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+
+  width: 100vw;
+  /* height: 100vh;     */
+}
+
+.order_summary {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+
+  width: 100vw;
+  height: 5vh;  
+}
+
+.dish {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+
+  width: 100vw;
+  height: 20vh;  
+}
+
+.dish_title {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+
+  width: 100vw;
+  height: 5vh;
+}
+
+.options {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+
+  width: 100vw;
+  height: 15vh;
+}
+
+.disk_option {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+
+  width: 30vw;
+  height: 30vw;
+}
