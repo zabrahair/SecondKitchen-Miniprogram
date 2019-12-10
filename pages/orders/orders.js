@@ -1,4 +1,6 @@
 // pages/orders/orders.js
+const orders = require('../../mockupData/orders.js').orders
+
 Page({
 
   /**
@@ -7,6 +9,7 @@ Page({
   data: {
     startDate: "2019-10-01",
     endDate: "2030-10-01",
+    orders: orders,
   },
 
   /**
