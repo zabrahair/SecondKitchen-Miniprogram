@@ -64,6 +64,13 @@
 					"id": -1,
 					"name": "pages/selectMealCombo/selectMealCombo",
 					"pathName": "pages/selectMealCombo/selectMealCombo",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/register/register",
+					"pathName": "pages/register/register",
 					"scene": null
 				}
 			]

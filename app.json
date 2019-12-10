@@ -6,7 +6,14 @@
     "pages/selectMealCombo/selectMealCombo",
     "pages/editMealCombo/editMealCombo",
     "pages/profile/profile",
-    "pages/orders/orders"
+    "pages/orders/orders",
+    "pages/bindCompany/bindCompany",
+    "pages/companies/companies",
+    "pages/dishes/dishes",
+    "pages/editAccountProfile/editAccountProfile",
+    "pages/editMenu/editMenu",
+    "pages/menuList/menuList",
+    "pages/register/register"
   ],
   "window": {
     "backgroundTextStyle": "light",

@@ -2,16 +2,16 @@
 <view class="container">
   <view class="header">
     <view class="combo_title">
-      套餐一
+      {{combo.name}}
     </view>
   </view>
   <view class="combo_options">
-    <view class="dish" wx:for-items="{{combo}}" wx:key="id">
+    <view class="dish" wx:for-items="{{combo.options}}" wx:key="id">
       <view class="dish_title">
         {{item.name}}
       </view>
       <radio-group class="options" bindchange="radioChange">
-        <view class="dish_option" wx:for-items="{{item.options}}" wx:key="id" value="{{item.id}}" checked="{{item.isSelect}}">
+        <view class="dish_option dish_{{item.id}}" wx:for-items="{{item.options}}" wx:key="id" value="{{item.id}}" checked="{{item.isSelect}}">
           <image class="dish_image" src="{{item.image_url}}">
           </image>
           <view class="dish_capital">

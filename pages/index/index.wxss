@@ -8,6 +8,9 @@
 
   width: 100vw;
   height: 100vh;
+
+  background-size: 120vh;
+  background-image: url('https://wx2.sinaimg.cn/large/006Nm6ZJgy1fhfzwnrvpvj30p00owdsx.jpg');
 }
 
 .title {
@@ -17,6 +20,7 @@
   justify-content: flex-start;
   align-items: center;
 
+  color: white;
   font-size: 10vw;
   font-stretch: expanded;
   font-style: italic;
