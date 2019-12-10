@@ -5,7 +5,10 @@ Page({
    * 页面的初始数据
    */
   data: {
-
+    userInfo: {
+      username: '甩手大掌柜',
+      mobile: '13162041319',
+    }
   },
 
   /**
