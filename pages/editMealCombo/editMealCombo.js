@@ -1,11 +1,14 @@
 // pages/editMealCombo/editMealCombo.js
+const combo = require('../../mockupData/combo.js').combo
+
 Page({
 
   /**
    * 页面的初始数据
    */
   data: {
-
+    total_price: 10000,
+    combo: combo
   },
 
   /**

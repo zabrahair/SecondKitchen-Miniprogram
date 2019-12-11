@@ -85,6 +85,13 @@
 					"id": -1,
 					"name": "pages/menuList/menuList",
 					"pathName": "pages/menuList/menuList",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/editMealCombo/editMealCombo",
+					"pathName": "pages/editMealCombo/editMealCombo",
 					"scene": null
 				}
 			]
