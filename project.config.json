@@ -92,6 +92,20 @@
 					"id": -1,
 					"name": "pages/editMealCombo/editMealCombo",
 					"pathName": "pages/editMealCombo/editMealCombo",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/dishes/dishes",
+					"pathName": "pages/dishes/dishes",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/companies/companies",
+					"pathName": "pages/companies/companies",
 					"scene": null
 				}
 			]
