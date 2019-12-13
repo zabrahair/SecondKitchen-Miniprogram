@@ -106,6 +106,21 @@
 					"id": -1,
 					"name": "pages/companies/companies",
 					"pathName": "pages/companies/companies",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/statistics/statistics",
+					"pathName": "pages/statistics/statistics",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/userManage/userManage",
+					"pathName": "pages/userManage/userManage",
+					"query": "",
 					"scene": null
 				}
 			]

@@ -13,7 +13,9 @@
     "pages/editAccountProfile/editAccountProfile",
     "pages/editMenu/editMenu",
     "pages/menuList/menuList",
-    "pages/register/register"
+    "pages/register/register",
+    "pages/statistics/statistics",
+    "pages/userManage/userManage"
   ],
   "window": {
     "backgroundTextStyle": "light",
